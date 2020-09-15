@@ -1,2 +1,2 @@
-# Python-Data-Science
-EdX course: IBM Python Data Science
+# Python Data Science
+EdX course: _IBM Python Data Science_
